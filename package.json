@@ -33,7 +33,7 @@
   "license": "LGPL-3.0",
   "dependencies": {
     "@clack/prompts": "^0.7.0",
-    "@ledgerhq/hw-app-eth": "^6.46.1",
+    "@ledgerhq/hw-app-eth": "^7.14.0",
     "@ledgerhq/hw-transport-node-hid": "^6.29.13",
     "@safe-global/api-kit": "^4.0.0",
     "@safe-global/protocol-kit": "^5.1.1",
